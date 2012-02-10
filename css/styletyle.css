@@ -1,0 +1,30 @@
+.colourswatch {
+height:70px;
+border: 4px solid #e7e9e8;
+
+
+}
+.patternswatch {
+height:140px;
+border: 4px solid #e7e9e8;
+
+
+}
+[class*="span"] {
+    float: left;
+    margin-left: 20px;
+}
+
+.mainbody {
+background: #414850;
+}
+
+
+h1,h2,h3,h4,h4,h5,h6,p {
+	color: #e7e9e8;
+}
+.row {
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
